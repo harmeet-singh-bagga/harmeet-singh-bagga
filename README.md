@@ -9,7 +9,6 @@ This GitHub is organized as a practical project portfolio, with projects grouped
 | Area | Description | Projects |
 |---|---|---|
 | Business Analysis | Business case studies, KPI analysis, customer insights, and decision-focused analytics | [View Projects](https://github.com/harmeet-singh-bagga/Projects-By-Topic/tree/main/Business%20Analysis) |
-| Data Exploration | Exploratory data analysis, data profiling, pattern discovery, and insight generation | [View Projects](https://github.com/harmeet-singh-bagga/Projects-By-Topic/tree/main/Data%20Exploration) |
 | Data Engineering | ETL pipelines, PySpark, SQL workflows, data processing, and cloud-style data systems | [View Projects](https://github.com/harmeet-singh-bagga/Projects-By-Topic/tree/main/Data%20Engineering) |
 | Classification | Supervised learning projects focused on classification, risk scoring, fraud detection, and churn prediction | [View Projects](https://github.com/harmeet-singh-bagga/Projects-By-Topic/tree/main/Classification) |
 | Regression | Predictive modeling projects focused on continuous outcomes, forecasting, and numerical estimation | [View Projects](https://github.com/harmeet-singh-bagga/Projects-By-Topic/tree/main/Regression) |
